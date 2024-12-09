@@ -1,3 +1,5 @@
+Not knowing the license does not make me responsible for your losses and actions!
+
 RU
 Использовать код можно только в ознакомительных целях.
 Распространение данного кода запрещено с изменением лицензии.
